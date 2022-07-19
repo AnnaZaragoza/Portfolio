@@ -9,9 +9,10 @@ Personal portfolio to showcase my projects, introduce myself and provide contact
 ### Technologies:
 
 - HTML5
-- SCSS - RWD
+- CSS3 - SCSS - RWD
 - JavaScript ES6 - single page app
+- Parcel / Babel
 
 # Deploy:
 
-Go to site: [Mapty](https://portfolio-anna-zaragoza.netlify.app/)
+Go to site: [Portfolio - Anna Zaragoza](https://portfolio-anna-zaragoza.netlify.app/)

@@ -9,9 +9,9 @@ Personal portfolio to showcase my projects, introduce myself and provide contact
 ### Technologies:
 
 - HTML5
-- CSS3 - SCSS - RWD
+- CSS3 | SCSS | RWD
 - JavaScript ES6 - single page app
-- Parcel / Babel
+- Parcel | Babel
 
 # Deploy:
 

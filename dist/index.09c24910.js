@@ -30,6 +30,7 @@ nav.addEventListener("mouseout", handleHoverMenuLinks.bind(1));
 //////////////////////////////////////////////////////
 // Sticky navigation bar - using intersection observer API
 const stickyNav = function(entries) {
+    console.log(entries);
     const [entry] = entries;
     if (!entry.isIntersecting) nav.classList.add("nav-bar-sticky");
     else nav.classList.remove("nav-bar-sticky");

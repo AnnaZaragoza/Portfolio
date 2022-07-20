@@ -98,6 +98,12 @@ header .nav-bar.nav-bar-sticky {
   position: fixed;
 }
 
+@media only screen and (max-width: 500px) {
+  header .nav-bar.nav-bar-sticky {
+    display: none;
+  }
+}
+
 main section.section:first-child {
   background-image: url("background-flower.f07a902f.png");
   background-position: 0;
@@ -157,6 +163,22 @@ section.section .section-me .me-skills {
 section.section .section-me .me-skills .skills-icons {
   color: #404040e6;
   margin-bottom: 15px;
+}
+
+@media only screen and (max-width: 620px) {
+  section.section .section-me .me-skills .skills-icons i {
+    font-size: 20px;
+  }
+
+  section.section .section-me .me-skills .skills-icons p {
+    font-size: 10px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  section.section .section-me .me-skills .skills-icons p {
+    display: none;
+  }
 }
 
 section.section .section-me .me-skills .animation1 {

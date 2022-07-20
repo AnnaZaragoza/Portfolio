@@ -15,4 +15,4 @@ Personal portfolio to showcase my projects, introduce myself and provide contact
 
 # Deploy:
 
-Go to site: [Portfolio - Anna Zaragoza](https://portfolio-anna-zaragoza.netlify.app/)
+Go to site: [Portfolio - Anna Zaragoza](https://annazaragoza.net/)

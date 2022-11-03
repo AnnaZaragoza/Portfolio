@@ -1,6 +1,6 @@
 # Portfolio
 
-![Alt Text](https://github.com/AnnaZaragoza/Portfolio/blob/b5136e22a3a2c9d617b3c24a22fbbdd80aae970e/src/img/index/logo.png)
+![Alt Text](https://github.com/AnnaZaragoza/Portfolio/blob/1dbdddf07c86966a71813568cfc52e72c4de3267/src/img/index/visualisation.png)
 
 # Description:
 

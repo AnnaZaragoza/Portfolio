@@ -11,8 +11,8 @@
   },
   "author": "Anna Zaragoza",
   "license": "ISC",
-  "devDependencies": {
+  "devDependencies": {  
     "@parcel/transformer-sass": "^2.6.2",
-    "parcel": "^2.6.2"
+    "parcel": "^2.7.0"
   }
 }
